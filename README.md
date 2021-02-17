@@ -1,5 +1,6 @@
 # BoeingBot Open Source Edition
 ### How to Use these files
+#### How to link source files to bot:
 * Enter your token in:
 client.token('');
 #### How to use certain commands:
