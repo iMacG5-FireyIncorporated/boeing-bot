@@ -1,4 +1,4 @@
-# BoeingBot Open Source Edition
+# FireyBot Open Source Edition
 ### User Guide
 #### How to link source files to bot:
 * Enter your token in:
